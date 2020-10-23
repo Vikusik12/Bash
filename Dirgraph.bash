@@ -2,6 +2,7 @@
 export POSIXLY_CORRECT=yes
 DIR=$(pwd)
 
+
 #Checking arguments
 if [ $# -eq 4 ]
     then
